@@ -1,0 +1,30 @@
+[
+    {
+        "name": "John Doe",
+        "age": 20,
+        "email": "john.doe@example.com"
+    },
+    {
+        "name": "Alice",
+        "email": "alice@example.com",
+        "age": 30,
+        "address": "123 Main St, City"
+    },
+    {
+        "name": "Bob",
+        "email": "bob@example.com",
+        "age": 25,
+        "address": "456 Oak Rd, Town"
+    },
+    {
+        "name": "Charlie",
+        "email": "charlie@example.com",
+        "age": 35,
+        "address": "789 Pine Ln, Village"
+    },
+    {
+        "name": "Bob White",
+        "age": 22,
+        "email": "bob.white@example.com"
+    }
+]

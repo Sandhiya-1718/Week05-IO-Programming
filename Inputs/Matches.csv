@@ -1,0 +1,3 @@
+match_id,team1,team2,score,winner,player_of_match
+1,Mumbai Indians,Chennai Super Kings,"Player1=100,Player2=50",Mumbai Indians,Rohit Sharma
+2,Royal Challengers Bangalore,Delhi Capitals,"Player3=70,Player4=90",Royal Challengers Bangalore,Virat Kohli

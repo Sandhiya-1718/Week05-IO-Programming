@@ -1,0 +1,31 @@
+[ {
+  "ID" : "1",
+  "Marks" : "85",
+  "Age" : "20",
+  "Name" : "John"
+}, {
+  "ID" : "2",
+  "Marks" : "90",
+  "Age" : "22",
+  "Name" : "Jane"
+}, {
+  "ID" : "3",
+  "Marks" : "78",
+  "Age" : "21",
+  "Name" : "Michael "
+}, {
+  "ID" : "4",
+  "Marks" : "92",
+  "Age" : "20",
+  "Name" : "Sam"
+}, {
+  "ID" : "5",
+  "Marks" : "87",
+  "Age" : "21",
+  "Name" : "Anitha"
+}, {
+  "ID" : "6",
+  "Marks" : "76",
+  "Age" : "22",
+  "Name" : "Lily"
+} ]
