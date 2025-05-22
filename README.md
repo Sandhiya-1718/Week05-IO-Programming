@@ -1,5 +1,7 @@
 # Week 05 - IO Programming
 
+This week delves into Java's powerful Input/Output (IO) capabilities. You'll learn how to handle CSV and JSON data formats efficiently and explore advanced concepts like Annotations, Reflection, and essential Design Principles. These topics will help you write more flexible, maintainable, and real-world ready Java applications.
+
 ## 📑 Table of Contents
 - [Overview](#overview)
 - [Topics Covered](#topics-covered)
