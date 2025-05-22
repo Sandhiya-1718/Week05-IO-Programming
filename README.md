@@ -56,3 +56,4 @@ Explore the code examples, notes, and assignments organized by day in their resp
 
 ## ⏭️ Next Steps
 
+Now that you’ve completed Week 5, which focused on CSV, JSON, Annotations, Reflection, and Java I/O, you’re ready to level up your skills by diving into Backend Development using Java.
