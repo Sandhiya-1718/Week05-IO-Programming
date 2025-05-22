@@ -48,9 +48,9 @@ Explore the code examples, notes, and assignments organized by day in their resp
 
 | Day   | Topic Description                                                                                                      | 
 |-------|------------------------------------------------------------------------------------------------------------------------|
-| Day 1 | [CSV Data Handling](https://github.com/Sandhiya-1718/Week05-IO-Programming/tree/day-1)                                  |
-| Day 2 | [JSON Data](https://github.com/Sandhiya-1718/Week05-IO-Programming/tree/day-2)                                          |
-| Day 3 | [Annotations, Reflection, and Design Principles](https://github.com/Sandhiya-1718/Week05-IO-Programming/tree/day-3)     |
+| Day 1 | [CSV Data Handling](https://github.com/Sandhiya-1718/Week05-IO-Programming/tree/Day-1)                                  |
+| Day 2 | [JSON Data](https://github.com/Sandhiya-1718/Week05-IO-Programming/tree/Day-2)                                          |
+| Day 3 | [Annotations, Reflection, and Design Principles](https://github.com/Sandhiya-1718/Week05-IO-Programming/tree/Day-3)     |
 
 ## ⏭️ Next Steps
 
